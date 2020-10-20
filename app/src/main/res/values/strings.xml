@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DiceRoller</string>
+    <string name="title_text">Gambling</string>
+    <string name ="roll_button_text">ROLL THE DICE</string>
+    <string name ="initial_button_text">initial state</string>
+    <string name="result_text">1</string>
+    <string name="roll_button_text2">Dice Rolled</string>
+    <string name="todo">TODO</string>
+</resources>
